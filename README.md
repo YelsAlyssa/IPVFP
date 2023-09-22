@@ -1,2 +1,2 @@
-# TS-Forecasting
-Inbound Parcel Volume Forecasting in Logistics Systems via A  Hybrid Graph Learning Method
+# Inbound Parcel Volume Forecasting
+A Novel Hybrid Graph Learning Method for Inbound Parcel Volume Forecasting in Logistics System
